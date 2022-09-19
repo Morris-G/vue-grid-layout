@@ -33,11 +33,12 @@
     "prepublishOnly": "npm run build-lib"
   },
   "dependencies": {
-    "@interactjs/actions": "^1.10.2",
-    "@interactjs/auto-start": "^1.10.2",
-    "@interactjs/dev-tools": "^1.10.2",
-    "@interactjs/interactjs": "^1.10.2",
-    "@interactjs/modifiers": "^1.10.2",
+    "@interactjs/actions": "1.10.2",
+    "@interactjs/auto-scroll": "1.10.2",
+    "@interactjs/auto-start": "1.10.2",
+    "@interactjs/interactjs": "1.10.2",
+    "@interactjs/modifiers": "1.10.2",
+    "@interactjs/dev-tools": "1.10.2",
     "element-resize-detector": "^1.2.1"
   },
   "devDependencies": {
@@ -54,9 +55,9 @@
     "rimraf": "^2.6.2",
     "sass": "^1.53.0",
     "sass-loader": "^7.0.1",
-    "vue": "^2.6.12",
+    "vue": "^2.7.8",
     "vue-jest": "^3.0.7",
-    "vue-template-compiler": "^2.6.12",
+    "vue-template-compiler": "^2.7.8",
     "webpack-bundle-analyzer": "^3.9.0"
   }
 }

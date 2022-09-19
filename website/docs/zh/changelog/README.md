@@ -7,6 +7,9 @@ sidebar: auto
 * 使用dart-sass替换node-sass
 * GridItem新增属性`autoScroll`，设置为`true`可开启拖动和缩放时的容器自动滚动，默认关闭
 * GridItem新增属性`scrollEl`，值为CSS选择器的值，设置自动滚动时的外部容器，默认为GridLayout的父级容器
+## 2.4.0（2022年08月03日）
+
+* TODO
 
 ## 2.3.12（2021年01月15日）
 
